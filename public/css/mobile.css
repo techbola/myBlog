@@ -1,0 +1,28 @@
+@media (max-width: 700px) {
+
+    .rev_slider_wrapper, .fullwidthbanner, .rev_slider, .tp-fullwidth-forcer, .rev_slider .tp-bgimg.defaultimg {
+        max-height: 260px !important;
+
+    }
+
+    .nav li:hover{
+        -moz-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    .fullwidthbanner .title{
+        font-size: 70px;
+    }
+    .fullwidthbanner .subtitle p{
+        font-size: 50px;
+    }
+    .fullwidthbanner li a{
+        font-size: 36px !important;
+        margin-top: 24px;
+    }
+
+
+}

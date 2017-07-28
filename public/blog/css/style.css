@@ -1,0 +1,62 @@
+
+.feed_container{
+  margin: 8px;
+  width: 265px;
+  float: left;
+  padding-bottom: 15px;
+  border-bottom: 2px dotted #333;
+}
+.feed_img_cont{
+  width: 30%;
+  float: left;
+}
+.feed_img_cont img{
+  width: 100%;
+  height: 90px;
+}
+.feed_title_cont{
+  width: 60%;
+  max-width: 70%;
+  float: left;
+  margin-left: 10px;
+}
+
+.feed_container2{
+  margin: 8px;
+  width: 265px;
+  float: left;
+  padding-bottom: 15px;
+  border-bottom: 2px dotted #333;
+}
+.feed_img_cont2{
+  width: 100%;
+  float: left;
+}
+.feed_img_cont2 img{
+  width: 100%;
+  height: 200px;
+}
+.feed_title_cont2{
+  width: 100%;
+  max-width: 100%;
+  float: left;
+  margin-top: 10px;
+}
+/*.feed_title_cont:hover{
+  color: #428bca;
+}*/
+/*#rss_feeds{
+  border:1px solid grey;
+}*/
+/* 0088cc*/
+.feed_list{
+  list-style: none;
+}
+.feed_list_title{
+  font-size: 20px;
+}
+.feed_list li{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 2px dotted #333;
+}

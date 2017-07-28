@@ -1,0 +1,47 @@
+.logo_img{
+    height:50px;
+    margin-top: -15px;
+}
+.rev_slider_wrapper, .fullwidthbanner, .rev_slider, .tp-fullwidth-forcer, .rev_slider .tp-bgimg.defaultimg {
+    max-height: 400px !important;
+
+}
+#web_service{
+  text-align: left;
+}
+#web_service li{
+  list-style: none;
+}
+
+.fa{
+    color: #32c5d2;
+}
+.fa-angle-double-right,.fa-angle-up{
+    color: #fff;
+}
+.nav li:hover{
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.fullwidthbanner .title{
+     font-size: 80px;
+ }
+.fullwidthbanner .subtitle p{
+    font-size: 30px;
+}
+.fullwidthbanner li a{
+    font-size: 24px;
+}
+
+.btn-tr{
+    color: #32c5d2 !important;
+    border: 2px solid #ffffff;
+}
+.btn-tr:hover{
+    color: #ffffff !important;
+    border: 2px solid #32c5d2;
+    background-color: #32c5d2;
+}
